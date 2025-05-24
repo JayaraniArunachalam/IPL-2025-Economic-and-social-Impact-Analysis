@@ -33,6 +33,6 @@ The magazine seeks a data-backed analysis of IPL’s economic contributions and 
 
 [Presentation](https://www.canva.com/design/DAGoRMfnbKY/64LQkZWuiCf1qpYE_1jbjA/edit?utm_content=DAGoRMfnbKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-[LinkedIn Post](https://www.google.com)
+[LinkedIn Post](https://www.linkedin.com/posts/jayarani-arunachalam-23jun1990_powerbi-codebasics-resumeprojectchallenge-activity-7332011740500582400-ehht/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAiVbHEBDSUwZFf1bqQM9yvVWUdeohcZwoM)
 
 connect on [LinkedIn](www.linkedin.com/in/jayarani-arunachalam-23jun1990)
