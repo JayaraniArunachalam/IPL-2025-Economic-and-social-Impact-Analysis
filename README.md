@@ -26,3 +26,10 @@ The magazine seeks a data-backed analysis of IPL’s economic contributions and 
 - Creating custom KPIs (AEI, NIP Score, Risk Index)
 - Designing ethical evaluation metrics
 - Dashboard design with storytelling flow
+
+[Power BI Dashboard Screenshots](https://github.com/JayaraniArunachalam/IPL-2025-Economic-and-social-Impact-Analysis/tree/Dashboard-Screenshots)
+[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjg2ZDQwNDYtMjBjYS00MTYxLThlMTYtNjY1MmIyNmIyZTg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Presentation](https://www.canva.com/design/DAGoRMfnbKY/64LQkZWuiCf1qpYE_1jbjA/edit?utm_content=DAGoRMfnbKY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[LinkedIn Post](https://www.google.com)
+
+connect on [LinkedIn](www.linkedin.com/in/jayarani-arunachalam-23jun1990)
